@@ -1,0 +1,16 @@
+    try:
+
+        #
+        if $ < 0
+            print("Erro: Valor negativo! tente de novo.")
+            continue
+
+        else:
+
+            print("")
+            break
+
+    except ValueError:
+        print("Erro: Apenas numeros são permitidos! evite texto.")
+
+        #eu fiz tudo sozinho!!!!
